@@ -1,4 +1,4 @@
-Learn Markdown 22222222
+Learn Markdown
 ========
 
 You may have heard about Markdown, if you have it's a good thing.
